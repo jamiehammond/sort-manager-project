@@ -3,6 +3,7 @@ An application that manages different type of sorting algorithms.
 
 # Project Overview
 Sort Manager implements 6 different type of sort algorithms, which all sort an array of integers into ascending order.
+These algorithms, and other features of the application, are tested against various test cases to ensure they are reliable and working.
 
 ### Sorting Algorithms
 The algorithms included are:
